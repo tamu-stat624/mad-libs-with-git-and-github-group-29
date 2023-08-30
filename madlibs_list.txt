@@ -1,21 +1,21 @@
-1. Friend's Name: Matthew
-2. Adjective: Strong
-3. Adjective: Hard-working
-4. Color: Black
-5. Month: July
-6. Number: 5
-7. Noun (Plural): horses
-8. Noun (Plural): planes
-9. Noun: Ken
-10. Room Name: Gateway
-11. Liquid: Celery juice
-12. Adjective: Cool
-13. Material: Cotton
-14. Activity: Gym
-15. Adverb: quickly
-16. Number: 3
-17. Unit of Time: seconds
-18. Different Activity: Sprint
-19. Adjective: Hot
-20. Vehicle: Scooty
-21. Your Name: Harika
+1. Friend's Name:
+2. Adjective:
+3. Adjective:
+4. Color:
+5. Month: 
+6. Number: 
+7. Noun (Plural): 
+8. Noun (Plural): 
+9. Noun: 
+10. Room Name: 
+11. Liquid: 
+12. Adjective: 
+13. Material: 
+14. Activity: 
+15. Adverb: 
+16. Number:
+17. Unit of Time: 
+18. Different Activity: 
+19. Adjective: 
+20. Vehicle:
+21. Your Name:
