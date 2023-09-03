@@ -3,11 +3,11 @@
 3. Adjective: [Prince]
 4. Color: [Prince]
 5. Month: [Prince]
-6. Number: [Harika]
-7. Noun (Plural): [Harika]
-8. Noun (Plural): [Harika]
-9. Noun: [Harika]
-10. Room Name: [Harika]
+6. Number: 3
+7. Noun (Plural): chocolates
+8. Noun (Plural): biscuits
+9. Noun: metal
+10. Room Name: Gateway
 11. Liquid: Lemonade
 12. Adjective: Small
 13. Material: Copper
