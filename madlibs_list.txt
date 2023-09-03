@@ -8,11 +8,11 @@
 8. Noun (Plural): biscuits
 9. Noun: metal
 10. Room Name: Gateway
-11. Liquid: [Emin]
-12. Adjective: [Emin]
-13. Material: [Emin]
-14. Activity: [Emin]
-15. Adverb: [Emin]
+11. Liquid: Lemonade
+12. Adjective: Small
+13. Material: Copper
+14. Activity: Fishing
+15. Adverb: Quickly
 16. Number: [Dixit]
 17. Unit of Time: [Dixit]
 18. Different Activity: [Dixit]
