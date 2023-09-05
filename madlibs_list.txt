@@ -1,8 +1,8 @@
-1. Friend's Name: [Prince]
-2. Adjective: [Prince]
-3. Adjective: [Prince]
-4. Color: [Prince]
-5. Month: [Prince]
+1. Friend's Name: Anidya
+2. Adjective: giant
+3. Adjective: far
+4. Color: black
+5. Month: february
 6. Number: 3
 7. Noun (Plural): chocolates
 8. Noun (Plural): biscuits
