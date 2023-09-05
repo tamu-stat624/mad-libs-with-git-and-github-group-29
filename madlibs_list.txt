@@ -13,9 +13,9 @@
 13. Material: Copper
 14. Activity: Fishing
 15. Adverb: Quickly
-16. Number: [Dixit]
-17. Unit of Time: [Dixit]
-18. Different Activity: [Dixit]
-19. Adjective: [Dixit]
-20. Vehicle: [Dixit]
+16. Number: 32
+17. Unit of Time: Hour
+18. Different Activity: Fighting
+19. Adjective: Big
+20. Vehicle: Boat
 21. Your Name: Group-29
